@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "coinApp"
+rootProject.name = "CryptoProject"
 include(":app")
